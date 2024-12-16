@@ -1,5 +1,4 @@
 package com.milenyumsoft.pokeapi.repository;
-
 import com.milenyumsoft.pokeapi.dto.PokemonDTO;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
